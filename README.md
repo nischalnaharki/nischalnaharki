@@ -34,3 +34,32 @@ const nischal = {
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
+## What I'm Working On
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### EdTech Platform
+
+Building an education platform for Nepali students, starting with an **After SEE** product: resources, mock exams, question banks, and progress tracking.
+
+</td>
+<td width="33%" align="center">
+
+### Content
+
+Creating educational content
+
+</td>
+<td width="33%" align="center">
+
+### Skills
+
+Going deeper into real software engineering fundamentals: DSA, systems, and eventually ML/DL.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
