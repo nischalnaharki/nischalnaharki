@@ -109,3 +109,12 @@ I care more about evidence of learning than the number of repos or buzzwords on 
 | 🧪 **Learn by building** | Theory sticks when it's applied to real systems |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
+<div align="center">
+
+### Let's Connect
+
+Interested in Computer Science, AI, EdTech, or building things? Feel free to reach out. Always open to good conversations.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
