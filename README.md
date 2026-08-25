@@ -99,3 +99,13 @@ I care more about evidence of learning than the number of repos or buzzwords on 
 > My stack is still evolving. I pick tools based on the problem I'm solving, not what's trending. Right now that means shipping fast on the web while building toward Python and machine learning underneath.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
+## Principles
+
+| | |
+|---|---|
+| 🛠️ **Build with purpose** | Solve real problems, not just portfolio filler |
+| 📐 **Fundamentals first** | Tools change fast. Strong fundamentals don't |
+| 🤖 **Use AI responsibly** | To accelerate learning, never to replace understanding |
+| 🧪 **Learn by building** | Theory sticks when it's applied to real systems |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
