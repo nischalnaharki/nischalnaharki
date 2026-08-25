@@ -20,3 +20,17 @@ I'm a Computer Science student at **Patan Multiple Campus, Tribhuvan University*
 **`Computer Science`** × **`Artificial Intelligence`** × **`Education`** × **`Entrepreneurship`**
 
 </div>
+I'm currently building strong foundations in software engineering while gradually moving toward AI/ML, using what I learn to build real products for students, not just portfolio projects.
+
+```txt
+const nischal = {
+  location: "Nepal",
+  degree: "BSc CSIT, Tribhuvan University",
+  focus: ["Software Engineering", "Artificial Intelligence", "EdTech"],
+  currentlyBuilding: "An EdTech platform for Nepali students",
+  currentlyLearning: "Python for AI, ML foundations",
+  philosophy: "Fundamentals > frameworks. Substance > certificates."
+};
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
