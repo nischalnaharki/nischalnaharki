@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
 
 </div>
-## About Me
+ About Me
 
 I'm a Computer Science student at **Patan Multiple Campus, Tribhuvan University**, based in Nepal 🇳🇵, working at the intersection of:
 
