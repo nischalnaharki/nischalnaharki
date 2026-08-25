@@ -73,7 +73,29 @@ Going deeper into real software engineering fundamentals: DSA, systems, and even
 </div>
 
 <br/>
+## My Roadmap
 
+```mermaid
+graph LR
+    A[Web Dev Foundations] -->|in progress| B[Software Engineering]
+    B --> C[Python & Data]
+    C --> D[Machine Learning]
+    D --> E[Deep Learning]
+    E --> F[AI Research]
+
+    style A fill:#38BDF8,stroke:#0f2027,color:#0f2027
+    style B fill:#2c5364,stroke:#38BDF8,color:#ffffff
+    style C fill:#203a43,stroke:#38BDF8,color:#ffffff
+    style D fill:#0f2027,stroke:#38BDF8,color:#ffffff
+    style E fill:#0f2027,stroke:#38BDF8,color:#ffffff
+    style F fill:#0f2027,stroke:#38BDF8,color:#ffffff
+```
+
+**Foundations → Projects → Advanced AI → Research**
+
+I care more about evidence of learning than the number of repos or buzzwords on a profile. Every project here is meant to prove something I actually understand.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
 > My stack is still evolving. I pick tools based on the problem I'm solving, not what's trending. Right now that means shipping fast on the web while building toward Python and machine learning underneath.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2c5364,100:0f2027&height=3&section=header" width="100%">
