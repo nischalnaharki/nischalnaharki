@@ -1,19 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Nischal%20Naharki&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20EdTech&descAlignY=55&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nischal%20Naharki&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20EdTech&descAlignY=52&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+an+EdTech+platform+%F0%9F%9A%80;Creating+educational+content+%F0%9F%93%9A;Learning+Python+%26+ML+%F0%9F%A4%96;Fundamentals+%3E+Frameworks+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="120"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0,4CC9F0,7209B7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%9A%80+Building+an+EdTech+platform;%F0%9F%93%9A+Creating+educational+content;%F0%9F%A4%96+Learning+Python+%26+ML;%E2%9A%A1+Fundamentals+%3E+Frameworks;%F0%9F%94%A5+Shipping+real+products" alt="Typing SVG" />
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nischalnaharki&label=PROFILE+VIEWS&color=f72585&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=nischalnaharki&label=PROFILE+VIEWS&color=f72585&style=for-the-badge&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/nischalnaharki?label=FOLLOW&style=for-the-badge&color=4361ee&logo=github)
+<img src="https://img.shields.io/badge/dynamic-online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&label=STATUS&color=39FF14"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=4&section=header" width="100%">
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=5&section=header&animation=fadeIn" width="100%">
 
 </div>
 
 ## About Me
+
+<img align="right" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="260"/>
 
 I'm a Computer Science student at **Patan Multiple Campus, Tribhuvan University**, based in Nepal 🇳🇵, working at the intersection of:
 
@@ -39,7 +48,9 @@ const nischal = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=4&section=header" width="100%">
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=5&section=header" width="100%">
 
 ## What I'm Working On
 
@@ -47,35 +58,41 @@ const nischal = {
 <tr>
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90"/>
 
 ### EdTech Platform
 
 Building an education platform for Nepali students, starting with an **After SEE** product: resources, mock exams, question banks, and progress tracking.
 
+<img src="https://progress-bar.xyz/65/?title=building&width=180&color=f72585"/>
+
 </td>
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90"/>
 
 ### Content
 
 Creating educational content that makes hard concepts click.
 
+<img src="https://progress-bar.vercel.app/50/?title=writing&width=180&color=7209b7"/>
+
 </td>
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="90"/>
 
 ### Skills
 
 Going deeper into real software engineering fundamentals: DSA, systems, and eventually ML/DL.
 
+<img src="https://progress-bar.xyz/40/?title=leveling+up&width=180&color=4361ee"/>
+
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=5&section=header" width="100%">
 
 ## Tech Stack
 
@@ -88,6 +105,10 @@ Going deeper into real software engineering fundamentals: DSA, systems, and even
 <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
 
 </div>
 
@@ -119,11 +140,11 @@ graph LR
 
 I care more about evidence of learning than the number of repos or buzzwords on a profile. Every project here is meant to prove something I actually understand.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=5&section=header" width="100%">
 
 > My stack is still evolving. I pick tools based on the problem I'm solving, not what's trending. Right now that means shipping fast on the web while building toward Python and machine learning underneath.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=5&section=header" width="100%">
 
 ## Principles
 
@@ -134,7 +155,7 @@ I care more about evidence of learning than the number of repos or buzzwords on 
 | 🤖 **Use AI responsibly** | To accelerate learning, never to replace understanding |
 | 🧪 **Learn by building** | Theory sticks when it's applied to real systems |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=5&section=header" width="100%">
 
 <div align="center">
 
@@ -142,6 +163,8 @@ I care more about evidence of learning than the number of repos or buzzwords on 
 
 Interested in Computer Science, AI, EdTech, or building things? Feel free to reach out. Always open to good conversations.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=500&color=4CC9F0&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+this+far+%F0%9F%91%80;Let's+build+something+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
