@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nischal%20Naharki&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20EdTech&descAlignY=52&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0,4CC9F0,7209B7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%9A%80+Building+an+EdTech+platform;%F0%9F%93%9A+Creating+educational+content;%F0%9F%A4%96+Learning+Python+%26+ML;%E2%9A%A1+Fundamentals+%3E+Frameworks;%F0%9F%94%A5+Shipping+real+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0,4CC9F0,7209B7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%9A%80+Building+an+EdTech+platform;%F0%9F%A4%96+Learning+Python+%26+ML;%E2%9A%A1+Fundamentals+%3E+Frameworks;%F0%9F%94%A5+Shipping+real+products" alt="Typing SVG" />
 
 <br/>
 <br/>
